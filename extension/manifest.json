@@ -3,7 +3,7 @@
     "name": "Chrome Wasm Extension", 
     "short_name": "Chrome Wasm Extension", 
     "description": "", 
-    "version": "1.0.0", 
+    "version": "1.0.1", 
     "author": "Berrigan", 
     "minimum_chrome_version": "110", 
     "offline_enabled": true, 
